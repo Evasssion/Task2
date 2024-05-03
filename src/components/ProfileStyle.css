@@ -1,0 +1,13 @@
+.block{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10%;
+    margin-bottom: 20px;
+}
+.image{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-left: 50px;
+}
